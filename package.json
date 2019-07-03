@@ -1,0 +1,26 @@
+{
+  "name": "ak-mongo-driver",
+  "version": "1.0.0",
+  "description": "A customized and simplified MongoDB driver for nodejs that i designed for myself and use in my projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/ArminKardan/node-custom-mongo-driver.git"
+  },
+  "keywords": [
+    "mongodb",
+    "mongo",
+    "driver",
+    "armin",
+    "arminkardan",
+    "driver"
+  ],
+  "author": "Armin Kardan",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "^3.2.7"
+  }
+}
